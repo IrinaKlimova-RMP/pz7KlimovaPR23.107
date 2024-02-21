@@ -11,4 +11,5 @@ public class Activity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_2);
     }
+    //здесь будет написан код
 }
